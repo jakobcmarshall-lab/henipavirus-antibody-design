@@ -15,25 +15,24 @@ Henipaviruses (Nipah, Hendra) are BSL-4 pathogens with high fatality rates and n
 
 ## Repository Structure
 henipavirus-antibody-design/
-├── README.md # This file
-├── PROGRESS.md # Weekly progress log
-├── data/
-│ ├── structures/ # PDB files
-│ └── sequences/ # FASTA, MSAs
-├── notebooks/
-│ ├── 01_structural_analysis.ipynb
-│ ├── 02_antibody_design.ipynb
-│ └── 03_validation_visualization.ipynb
-├── results/
-│ ├── alignments/
-│ ├── predictions/
-│ └── visualizations/
-├── scripts/
-│ ├── download_structures.sh
-│ └── colabfold_wrapper.py
-└── docs/
-└── methods.md
-
+  ├── README.md
+  ├── PROGRESS.md
+  ├── data/
+  │   ├── structures/
+  │   └── sequences/
+  ├── notebooks/
+  │   ├── 01_structural_analysis.ipynb
+  │   ├── 02_antibody_design.ipynb
+  │   └── 03_validation_visualization.ipynb
+  ├── results/
+  │   ├── alignments/
+  │   ├── predictions/
+  │   └── visualizations/
+  ├── scripts/
+  │   ├── download_structures.sh
+  │   └── colabfold_wrapper.py
+  └── docs/
+      └── methods.md
 ## Getting Started
 1. Clone this repo: `git clone https://github.com/yourusername/henipavirus-antibody-design.git`
 2. Install dependencies: `pip install -r requirements.txt`
