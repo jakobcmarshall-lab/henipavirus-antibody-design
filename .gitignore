@@ -1,0 +1,35 @@
+# Large files
+*.pdb
+*.pdbx
+*.cif
+*.mmcif
+
+# Data
+data/*.pkl
+data/*.npy
+data/*.fasta~
+
+# Outputs
+results/predictions/*.pdb
+results/predictions/*.json
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# OS
+.DS_Store
+.vscode/
+.idea/
+
+# ColabFold temp
+colabfold_results/
