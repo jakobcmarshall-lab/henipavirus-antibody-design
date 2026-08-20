@@ -4,7 +4,7 @@
 This project extends my prior research on Henipavirus host attachment mechanisms (Oxford MBiochem thesis) into a computational antibody design pipeline. I designed antibody sequences predicted to neutralize multiple species within the Henipavirus genus using structure-guided CDR grafting and AlphaFold multimer predictions.
 
 ## Motivation
-Henipaviruses (Nipah, Hendra, Marbur) are BSL-4 pathogens with high fatality rates and no approved antivirals. Antibodies targeting conserved epitopes on viral glycoproteins offer a promising therapeutic approach.
+Henipaviruses (Nipah, Hendra) are BSL-4 pathogens with high fatality rates and no approved antivirals. Antibodies targeting conserved epitopes on viral glycoproteins offer a promising therapeutic approach.
 
 ## Methods
 1. **Structural analysis** — Align Henipavirus glycoproteins, identify conserved regions
