@@ -10,7 +10,7 @@ Henipaviruses (Nipah, Hendra) are BSL-4 pathogens with high fatality rates and n
 ## Methods
 1. **Structural analysis** — Align Henipavirus glycoproteins, identify conserved regions
 2. **Epitope selection** — Use ConSurf conservation scoring + literature
-3. **Antibody design** — Conservative sequence optimization of known neutralizing antibodies using human germline frameworks
+3. **Antibody design** — Conservative sequence modifications (humanization, stability enhancement, epitope targeting) of known neutralizing antibodies on human germline frameworks
 4. **Validation** — AlphaFold Multimer predictions of antibody-antigen complexes
 5. **Scoring** — PAE, pLDDT confidence, buried surface area
 
