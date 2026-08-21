@@ -1,4 +1,4 @@
-# Computational Antibody Design Against the Henipavirus Family
+# Computational Antibody Optimisation Against the Henipavirus Family
 
 ## Project Overview
 
