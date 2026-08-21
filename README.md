@@ -1,7 +1,8 @@
 # Computational Antibody Design Against the Henipavirus Family
 
-## Overview
-This project extends my prior research on Henipavirus host attachment mechanisms (Oxford MBiochem thesis) into a computational antibody design pipeline. I designed antibody sequences predicted to neutralize multiple species within the Henipavirus genus using structure-guided CDR grafting and AlphaFold multimer predictions.
+## Project Overview
+
+This project extends my prior research on Henipavirus host attachment mechanisms (Oxford MBiochem thesis) into a computational antibody optimization pipeline. I systematically optimized three known Henipavirus-neutralizing antibodies (HENV-26, 1E5, hu1F5) through structure-guided sequence modifications targeting improved manufacturability, stability, and epitope engagement. I generated eight antibody variants using conservative amino acid substitutions, CDR length optimization, and human germline framework scaffolding. All variants were computationally validated using AlphaFold Multimer structure prediction, with performance compared to parent antibodies using PAE, pLDDT, and buried surface area metrics.
 
 ## Motivation
 Henipaviruses (Nipah, Hendra) are BSL-4 pathogens with high fatality rates and no approved antivirals. Antibodies targeting conserved epitopes on viral glycoproteins offer a promising therapeutic approach.
