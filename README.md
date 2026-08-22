@@ -37,8 +37,6 @@ This project uses an **adaptive, multi-stage validation approach**:
 
 ## Repository Structure
 
-## Repository Structure
-
 ```
 henipavirus-antibody-optimization/
 ├── data/
